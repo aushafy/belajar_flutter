@@ -1,6 +1,6 @@
-# belajarflutter2
+# Tugas 2 Flutter - Niomic ID
 
-A new Flutter project.
+A new Flutter project for Tugas 2 Niomic.
 
 ## Getting Started
 
